@@ -10,21 +10,21 @@
     "name": "autumn",
     "color": "yellow",
     "description": "autumn in the mountains",
-    "image": "https://unsplash.com/photos/a-small-cabin-in-the-middle-of-a-mountain-valley-3wk1bYkAW7M",
+    "image": "https://images.unsplash.com/photo-1736965068880-1ec938f99fd5?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "maxHeight": 200
   },
   {
     "name": "winter",
     "color": "white",
     "description": "winter in the mountains",
-    "image": "https://unsplash.com/photos/a-mountain-covered-in-snow-surrounded-by-trees-9dDeegsxnWs",
+    "image": "https://https://plus.unsplash.com/premium_photo-1666343850739-a59dba761b3f?q=80&w=2127&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "maxHeight": 200
   },
   {
     "name": "spring",
     "color": "pink",
     "description": "spring in the mountains",
-    "image": "https://unsplash.com/photos/a-view-of-a-mountain-with-yellow-flowers-in-the-foreground-6Gz23dMYqN4",
+    "image": "https://plus.unsplash.com/premium_photo-1674917070243-905c3bbf1576?q=80&w=2126&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "maxHeight": 200
   }
 ]
