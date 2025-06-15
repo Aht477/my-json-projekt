@@ -1,0 +1,29 @@
+ {
+    "name": "summer",
+    "color": "green",
+    "description": "Summer in the mountains",
+    "image": "https://unsplash.com/photos/a-lush-green-hillside-covered-in-lots-of-trees-1x8CBgUF6dg",
+    "maxHeight": 200
+  },
+  {
+    "name": "autumn",
+    "color": "jellow",
+    "description": "autumn in the mountains",
+    "image": "https://unsplash.com/photos/a-small-cabin-in-the-middle-of-a-mountain-valley-3wk1bYkAW7M",
+    "maxHeight": 200
+  },
+  {
+    "name": "winter",
+    "color": "white",
+    "description": "winter in the mountains",
+    "image": "https://unsplash.com/photos/a-mountain-covered-in-snow-surrounded-by-trees-9dDeegsxnWs",
+    "maxHeight": 200
+  },
+  {
+    "name": "spring",
+    "color": "pink",
+    "description": "spring in the mountains",
+    "image": "https://unsplash.com/photos/a-view-of-a-mountain-with-yellow-flowers-in-the-foreground-6Gz23dMYqN4",
+    "maxHeight": 200
+  }
+]
