@@ -1,4 +1,6 @@
- {
+json
+
+{
     "name": "summer",
     "color": "green",
     "description": "Summer in the mountains",
@@ -26,4 +28,3 @@
     "image": "https://unsplash.com/photos/a-view-of-a-mountain-with-yellow-flowers-in-the-foreground-6Gz23dMYqN4",
     "maxHeight": 200
   }
-]
